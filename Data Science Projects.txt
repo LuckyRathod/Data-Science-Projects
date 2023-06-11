@@ -1,0 +1,25 @@
+
+
+1. P1 - Air Quality Index Prediction -- Regression -- Done
+2. P2 - Image web scrapping -- Done
+3. P3 - Checking Password Strength using ML Multiclassification -- Done
+4. P4 - Flight Price Prediction -- Done
+5. P5 - Phishing Classifier 
+6. P6 - Visibility Climate Prediction 
+7. P7 - Face Recognition using Keras and OpenCV
+8. P8 - Forecasting Future Sales Using ARIMA AND SARIMAX
+9. P9 - Fake News Classifier -- Done
+10.P10- Wafer Fault Detection
+11.P11 - Insurance Fraud Detection Machine Learning Project
+12.P12 - New york Taxi Fare Prediction
+13.P13 - Audio Classification usinf Deep Learning
+14.P14 - Object Detection -- Done
+15.P15 - Chatbot
+16.P16 - YOLO
+
+
+**** Time Series Modelling and Analysis ****
+
+**** ML OPS ****
+
+  
